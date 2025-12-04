@@ -11,7 +11,7 @@
     "next": "14.0.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "formidable": "^3.7.0",
+    "formidable": "^2.1.1",
     "openai": "^4.0.0",
     "levenshtein": "^1.0.8"
   },
